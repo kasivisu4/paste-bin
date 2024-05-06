@@ -1,0 +1,11 @@
+{
+  "name": "paste-bin",
+  "version": "1.0.0",
+  "description": "This challenge is to build your own version of a Pastebin. A pastebin is a text storage site that allows users to store plain text in order to share it with other people.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
